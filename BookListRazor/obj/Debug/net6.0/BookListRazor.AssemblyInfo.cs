@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("a7747e6f-6af7-4f77-8cf4-1c6825e080d7")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookListRazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a64f195005c1438a43538b740733c4ba75a6c74d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookListRazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookListRazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
